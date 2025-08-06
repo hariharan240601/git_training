@@ -2,3 +2,10 @@ country_name
 India
 Usa
 Russia
+canada
+dubai
+Uk
+France
+Germany
+Ukraine
+Italy
