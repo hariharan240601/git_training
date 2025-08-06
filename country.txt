@@ -4,3 +4,6 @@ Usa
 Russia
 canada
 dubai
+Uk
+France
+Germany
