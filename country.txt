@@ -2,5 +2,3 @@ country_name
 India
 Usa
 Russia
-Singapore
-malaysia
